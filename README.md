@@ -21,7 +21,7 @@ jax-project
 ```
 
 ## Ejemplo de JAX
-Para comenzar con este proyecto, clona el repositorio e instala las dependencias requeridas:
+Para ejecutar el ejemplo del código siga los pasos:
 
 ```
 git clone <url-del-repositorio>
